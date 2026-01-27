@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-Open%20Data-blue)
 ![City](https://img.shields.io/badge/Cidade-Recife-red)
 
-Este repositório é uma central de inteligência que reúne, trata e disponibiliza dados multidisciplinares sobre a cidade do Recife. O objetivo é facilitar o acesso à informação para gestores, pesquisadores e cidadãos.
+Este repositório é uma central que reúne, trata e disponibiliza dados multidisciplinares sobre a cidade do Recife. O objetivo é facilitar o acesso à informação para gestores, pesquisadores e cidadãos.
 
 ---
 
@@ -26,7 +26,7 @@ Navegue pelas pastas do repositório para encontrar dados específicos:
 
 Os dados compilados aqui provêm de fontes oficiais e colaborativas, incluindo:
 * **Prefeitura do Recife** (Portal Dados Abertos).
-* **IBGE** (Censo e Estimativas).
+* **IBGE** (Censo e Estimativas, PNAD Constínua, POF, etc).
 * **CONDEPE/FIDEM** (Dados Estaduais).
 * **INPE** (Dados Meteorológicos e Ambientais).
 
