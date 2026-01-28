@@ -16,6 +16,8 @@ O projeto utiliza a biblioteca **Leaflet** no R para mapear cada uma das árvore
 > Devido ao grande volume de dados (quase 260 mil pontos), utilizamos renderização via **WebGL (leafgl)** para garantir que a navegação seja fluida no navegador.
 
 **[🔗 Clique aqui para acessar o Mapa em Tela Cheia](https://censo-arboreo.netlify.app/)**
+
+O mapa apresenta a localização das árvores nos setores e possui *pop-ups* com informações sobre o bairro, setor, número de árvores, população e o número de árvores por pessoa dos setores e dos bairros.
 ---
 
 ## 📊 Estrutura dos Dados
