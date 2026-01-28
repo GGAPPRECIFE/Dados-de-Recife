@@ -12,11 +12,10 @@ Repositório dedicado ao armazenamento, tratamento e visualização dos dados do
 
 O projeto utiliza a biblioteca **Leaflet** no R para mapear cada uma das árvores registradas, permitindo a visualização por bairros e zonas de planejamento (RPA).
 
-> [!IMPORTANT]
+> [!IMPORTANTE]
 > Devido ao grande volume de dados (quase 260 mil pontos), utilizamos renderização via **WebGL (leafgl)** para garantir que a navegação seja fluida no navegador.
 
-**[🔗 Clique aqui para acessar o Mapa em Tela Cheia]([https://censo-arboreo.netlify.app/])**
-
+**[🔗 Clique aqui para acessar o Mapa em Tela Cheia](https://censo-arboreo.netlify.app/)**
 ---
 
 ## 📊 Estrutura dos Dados
