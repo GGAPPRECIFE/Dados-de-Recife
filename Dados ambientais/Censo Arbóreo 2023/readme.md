@@ -15,7 +15,7 @@ O projeto utiliza a biblioteca **Leaflet** no R para mapear cada uma das árvore
 > [!IMPORTANT]
 > Devido ao grande volume de dados (quase 260 mil pontos), utilizamos renderização via **WebGL (leafgl)** para garantir que a navegação seja fluida no navegador.
 
-**[🔗 Clique aqui para acessar o Mapa em Tela Cheia]([LINK_PARA_SEU_MAPA_HTML](https://censo-arboreo.netlify.app/)**
+**[🔗 Clique aqui para acessar o Mapa em Tela Cheia]([https://censo-arboreo.netlify.app/])**
 
 ---
 
