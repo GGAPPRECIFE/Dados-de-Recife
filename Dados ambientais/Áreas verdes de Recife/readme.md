@@ -2,7 +2,7 @@
 
 Este repositório apresenta **dados, scripts e análises das áreas verdes urbanas do município do Recife**, extraídas por meio do **pacote `greenR` (R)**, que permite a identificação, quantificação e análise espacial da cobertura vegetal em ambientes urbanos a partir de dados geoespaciais.
 
-O objetivo principal é **mapear, mensurar e analisar a distribuição das áreas verdes**, fornecendo subsídios técnicos para estudos ambientais, planejamento urbano e formulação de políticas públicas. As áreas verdes dozem respeito a parques, praças, Academias da cidade, clubes, Jardins, Quadras ou instituições que possuam áreas verdes em suas delimitações. Diversos trabalhos acadêmicos analisam a importância de áreas verdes para a qualidade de vida urbana
+O objetivo principal é **mapear, mensurar e analisar a distribuição das áreas verdes**, fornecendo subsídios técnicos para estudos ambientais, planejamento urbano e formulação de políticas públicas. As áreas verdes dozem respeito a parques, praças, Academias da cidade, clubes, Jardins, Quadras ou instituições que possuam áreas verdes em suas delimitações. Diversos trabalhos acadêmicos analisam a importância de áreas verdes para a qualidade de vida urbana.
 
 ---
 
