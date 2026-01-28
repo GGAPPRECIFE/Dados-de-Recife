@@ -1,6 +1,4 @@
-![Censo Demográfico 2022](Imagens/Censo2022.jpeg)
-
-# Censo Demográfico 2022 — IBGE
+# Censo Demográfico — IBGE
 
 Este repositório reúne **dados, scripts e análises relacionadas ao Censo Demográfico 2022**, realizado pelo **Instituto Brasileiro de Geografia e Estatística (IBGE)**. O Censo é a principal operação estatística do país, fornecendo informações essenciais para o planejamento de políticas públicas, pesquisas acadêmicas e estudos socioeconômicos.
 
