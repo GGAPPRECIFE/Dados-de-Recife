@@ -13,6 +13,8 @@ O objetivo principal é **mapear, mensurar e analisar a distribuição das área
 - **Relevância ambiental:** mitigação de ilhas de calor, regulação microclimática, drenagem urbana e melhoria da qualidade de vida
 
 **[🔗 Clique aqui para acessar o Mapa das áreas verdes de Recife](https://censo-arboreo.netlify.app/](https://areas-verdes-recife.netlify.app/)**
+
+https://areas-verdes-recife.netlify.app/
 ---
 
 ## 🛠️ Metodologia
