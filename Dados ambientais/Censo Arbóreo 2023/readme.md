@@ -25,9 +25,12 @@ A base de dados conta com **259.575 feições** e inclui informações detalhada
 | Coluna | Descrição |
 | :--- | :--- |
 | `NM_BAIRRO` | Nome do bairro onde a árvore está localizada. |
+| `CD_BAIRRO` | Código do bairro onde a árvore está localizada. |
 | `nome_popul` | Identificação da espécie pelo nome popular. |
 | `altura` | Altura aproximada do indivíduo (em metros). |
 | `porte_esp` | Classificação do porte da espécie. |
+| `arvores_por_pessoa` | Árvores por pessoa no setor censitário. |
+| `arvores_por_pessoa_bairro` | Árvores por pessoa no Bairro. |
 | `geometry` | Coordenadas geográficas em WGS84. |
 
 ---
