@@ -29,6 +29,7 @@ Utilizamos tecnologias de alta performance para renderizar a distribuição de *
 | **Recursos Hídricos** | SEPLAN | `.shp` | Mapeamento de canais, rios e bacias hidrográficas. |
 | **Áreas Verdes** | PCR | `.csv` | Inventário de parques, praças e áreas de preservação. |
 | **Resíduos Sólidos** | EMLURB | `.json` | Pontos de coleta seletiva e volume de descarte por região. |
+| **Dados climáticos** | Divsersas fontes | `.xlsx`, `.tiff`, `.geotiff`| Precipitação, temperatura, umidade relativa do ar. |
 
 ---
 
