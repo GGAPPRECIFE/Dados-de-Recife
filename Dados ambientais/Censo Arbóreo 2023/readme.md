@@ -4,7 +4,7 @@
 ![Data](https://img.shields.io/badge/Dataset-259.575_Registros-blue)
 ![Local](https://img.shields.io/badge/Cidade-Recife-red)
 
-Repositório dedicado ao armazenamento, tratamento e visualização dos dados do Censo Arbóreo realizado na cidade do Recife em 2023. Esta base de dados é fundamental para a gestão ambiental e o planejamento urbano da cidade. Os dados possuem a relação de árvores existentes, por bairro e por setor censitário e com geolocalização.
+Repositório dedicado ao armazenamento, tratamento e visualização dos dados do Censo Arbóreo realizado na cidade do Recife em 2023. Esta base de dados é fundamental para a gestão ambiental e o planejamento urbano da cidade. Os dados possuem a relação de árvores existentes, por bairro e por setor censitário e com geolocalização. Os dados podem ser obtidos [aqui](http://dados.recife.pe.gov.br/dataset/censo-arboreo) e estão em formato *geojson*.
 
 ---
 
@@ -17,7 +17,6 @@ O projeto utiliza a biblioteca **Leaflet** no R para mapear cada uma das árvore
 
 **[🔗 Clique aqui para acessar o Mapa em Tela Cheia](https://censo-arboreo.netlify.app/)**
 
-O mapa apresenta a localização das árvores nos setores e possui *pop-ups* com informações sobre o bairro, setor, número de árvores, população e o número de árvores por pessoa dos setores e dos bairros.
 ---
 
 ## 📊 Estrutura dos Dados
