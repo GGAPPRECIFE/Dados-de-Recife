@@ -25,11 +25,11 @@ Utilizamos tecnologias de alta performance para renderizar a distribuição de *
 
 | Indicador | Fonte | Formato | Descrição |
 | :--- | :--- | :--- | :--- |
-| **Arborização Urbana** | Censo Arbóreo | `.geojson` / `.csv` | Localização, espécie, altura e porte das árvores. |
-| **Recursos Hídricos** | SEPLAN | `.shp` | Mapeamento de canais, rios e bacias hidrográficas. |
+|🌳 **Arborização Urbana** | Censo Arbóreo | `.geojson` / `.csv` | Localização, espécie, altura e porte das árvores. |
+| 💧 **Recursos Hídricos,Rios e Canais** | SEPLAN | `.shp` | Malha hidrográfica e monitoramento de corpos d'água. |
 | **Áreas Verdes** | PCR | `.csv` | Inventário de parques, praças e áreas de preservação. |
-| **Resíduos Sólidos** | EMLURB | `.json` | Pontos de coleta seletiva e volume de descarte por região. |
-| **Dados climáticos** | Divsersas fontes | `.xlsx`, `.tiff`, `.geotiff`| Precipitação, temperatura, umidade relativa do ar. |
+|♻️ **Resíduos Sólidos** | EMLURB | `.json` | Pontos de coleta seletiva e volume de descarte por região. |
+|🌡️ 🌧️**Dados climáticos** | Divsersas fontes | `.xlsx`, `.tiff`, `.geotiff`| Séries históricas de precipitação, temperatura, umidade relativa do ar, Monitoramento térmico e análise de ilhas de calor urbano. |
 
 ---
 
