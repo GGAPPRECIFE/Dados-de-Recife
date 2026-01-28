@@ -1,4 +1,4 @@
-![Censo Demográfico 2022](Censo%do%IBGE/Imagens/Censo2022.jpeg)
+![Censo Demográfico 2022](Imagens/Censo2022.jpeg)
 
 # Censo Demográfico 2022 — IBGE
 
