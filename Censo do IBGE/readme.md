@@ -10,7 +10,7 @@ A organização do repositório segue a lógica abaixo (podendo ser adaptada con
 
 ```text
 ├── data/
-│   ├── Censo 2000/          # Dados brutos do Censo 2022
+│   ├── Censo 2000/    # Dados brutos do Censo 2022
 │   ├── Censo 2010/    # Dados tratados e organizados
 │   ├── Censo 2022/    # Dados tratados e organizados
 └── README.md
