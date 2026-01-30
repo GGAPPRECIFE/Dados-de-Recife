@@ -25,6 +25,7 @@ Entre os principais corpos hídricos que influenciam a dinâmica urbana destacam
 
 Esses elementos são estruturantes da paisagem urbana e fundamentais para a drenagem natural da cidade.
 
+**[🔗 Clique aqui para acessar o Mapa em Tela Cheia](https://recursos-hidricos.netlify.app/)**
 ---
 
 ## 🎯 Objetivo
