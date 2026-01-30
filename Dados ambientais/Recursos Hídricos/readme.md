@@ -1,6 +1,6 @@
 # 💧 Recursos Hídricos do Recife
 
-Este diretório reúne **dados, informações e análises sobre os recursos hídricos do município do Recife**, considerando sua configuração hidrográfica, o contexto urbano e a relação com as condições socioambientais da população.
+Este diretório reúne **dados, informações e análises sobre os recursos hídricos do município do Recife**, considerando sua configuração hidrográfica, o contexto urbano e a relação com as condições socioambientais da população. Os dados podem ser obtido no [site de dados abertos da Prefeitura de Recife](http://dados.recife.pe.gov.br/dataset/area-urbana/resource/47964772-09e5-4f6e-b9e3-3b829f475eec).
 
 O Recife apresenta uma forte dependência de seus sistemas hídricos naturais e artificiais, ao mesmo tempo em que enfrenta desafios relacionados à **urbanização intensa**, **impermeabilização do solo**, **poluição hídrica** e **eventos hidrometeorológicos extremos**.
 
