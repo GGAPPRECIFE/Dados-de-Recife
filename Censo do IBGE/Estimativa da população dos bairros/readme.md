@@ -104,7 +104,6 @@ Permite identificar bairros que crescem acima ou abaixo da média municipal.
 ## 🛠️ Tecnologias Utilizadas
 
 - **R** (tidyverse, sf, data.table, ggplot2, leaflet)  
-- **Python** (pandas, geopandas, matplotlib)  
 - **Git/GitHub** para versionamento  
 - **Markdown / RMarkdown** para documentação  
 
