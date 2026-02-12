@@ -91,7 +91,6 @@ O método **Shift-Share** decompõe a variação populacional dos bairros em com
 Permite identificar bairros que crescem acima ou abaixo da média municipal.
 
 ---
-
 ## 📊 Produtos Gerados
 
 - Estimativas anuais da população por bairro  
