@@ -4,7 +4,7 @@ Este repositório apresenta **métodos de estimativa da população dos bairros 
 
 O projeto tem como objetivo produzir **estimativas populacionais anuais em escala intraurbana**, suprindo a ausência de dados censitários anuais para bairros e apoiando análises demográficas, socioeconômicas e de políticas públicas.x
 
-O link com as motodologias podem ser acessados [https://estimativa-pop-bairros-recife.netlify.app/](aqui).
+O link com as motodologias podem ser acessados [aqui](https://estimativa-pop-bairros-recife.netlify.app/).
 
 ---
 
