@@ -2,7 +2,9 @@
 
 Este repositório apresenta **métodos de estimativa da população dos bairros do município do Recife**, com base em dados oficiais do **IBGE** e em técnicas demográficas e territoriais amplamente utilizadas em planejamento urbano.
 
-O projeto tem como objetivo produzir **estimativas populacionais anuais em escala intraurbana**, suprindo a ausência de dados censitários anuais para bairros e apoiando análises demográficas, socioeconômicas e de políticas públicas.
+O projeto tem como objetivo produzir **estimativas populacionais anuais em escala intraurbana**, suprindo a ausência de dados censitários anuais para bairros e apoiando análises demográficas, socioeconômicas e de políticas públicas.x
+
+O link com as motodologias podem ser acessados [https://estimativa-pop-bairros-recife.netlify.app/](aqui).
 
 ---
 
