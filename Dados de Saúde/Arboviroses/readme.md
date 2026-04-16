@@ -51,9 +51,6 @@ Os dados estão organizados em arquivos no formato `.xlsx` (ou similar), contend
 Os dados podem ter sido obtidos a partir de fontes oficiais, como:
 
 - Secretaria de Saúde de Recife (Dados Abertos)
-
-> ⚠️ Verifique as restrições de uso e licenciamento das bases originais.
-
 ---
 
 ## 🔧 Tratamento dos Dados
