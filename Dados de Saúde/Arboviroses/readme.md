@@ -36,6 +36,7 @@ Os dados estão organizados em arquivos no formato `.xlsx` (ou similar), contend
 ## 🌍 Cobertura Geográfica
 
 - Município: Recife (Bairros e setores censitários)
+**[🔗 Casos de dengue em 2024 por bairros](https://incandescent-pony-df4592.netlify.app/)**
 ---
 
 ## 📅 Período de Cobertura
