@@ -29,8 +29,6 @@ A metodologia CADINSAN permite estimar a insegurança alimentar de forma indiret
 ### 🔎 Principais dimensões consideradas:
 
 - 💰 Renda domiciliar per capita  
-- 🏠 Condições habitacionais  
-- 🚰 Acesso a serviços básicos (água, esgoto, coleta de lixo)  
 - 👨‍👩‍👧 Composição domiciliar  
 - ⚡ Infraestrutura e bens essenciais  
 
