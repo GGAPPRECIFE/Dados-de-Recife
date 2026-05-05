@@ -45,6 +45,7 @@ Caracteriza-se por situações de:
 ---
 
 ## 🗂️ Estrutura do Repositório
+```
 ├── data/
 │   ├── raw/           # Dados brutos (Cadastro Único, IBGE, etc.)
 │   ├── processed/     # Bases tratadas e consolidadas
@@ -64,8 +65,7 @@ Caracteriza-se por situações de:
 │   ├── metodologia/   # Notas técnicas e documentação detalhada
 │
 └── README.md
-
----
+```
 
 ## 📊 Produtos Gerados
 
