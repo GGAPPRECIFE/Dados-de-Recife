@@ -46,25 +46,24 @@ Caracteriza-se por situações de:
 
 ## 🗂️ Estrutura do Repositório
 ├── data/
-│ ├── raw/ # Dados brutos (Cadastro Único, IBGE, etc.)
-│ ├── processed/ # Bases tratadas e consolidadas
+│   ├── raw/           # Dados brutos (Cadastro Único, IBGE, etc.)
+│   ├── processed/     # Bases tratadas e consolidadas
 │
 ├── scripts/
-│ ├── preparacao/ # Limpeza e padronização dos dados
-│ ├── modelagem/ # Modelos estatísticos (proxy CADINSAN)
-│ ├── estimacao/ # Cálculo dos indicadores
-│ ├── espacial/ # Integração geográfica e mapas
+│   ├── preparacao/    # Limpeza e padronização dos dados
+│   ├── modelagem/     # Modelos estatísticos (proxy CADINSAN)
+│   ├── estimacao/     # Cálculo dos indicadores
+│   ├── espacial/      # Integração geográfica e mapas
 │
 ├── outputs/
-│ ├── tabelas/ # Resultados consolidados
-│ ├── graficos/ # Visualizações analíticas
-│ ├── mapas/ # Mapas temáticos
+│   ├── tabelas/       # Resultados consolidados
+│   ├── graficos/      # Visualizações analíticas
+│   ├── mapas/         # Mapas temáticos
 │
 ├── docs/
-│ ├── metodologia/ # Notas técnicas e documentação detalhada
+│   ├── metodologia/   # Notas técnicas e documentação detalhada
 │
 └── README.md
-
 
 ---
 
